@@ -16,7 +16,9 @@ Repositorio de Prueba.
     1. git status
     
 # Guardar Cambios
-    1. git commit -m "Comentario"
+    1. git add miarchivo.xml
+    2. git commit -m "Comentario"
+    3. git push
     
 # Guardar Cambios Temporalmente con Stash
     1. git stash
